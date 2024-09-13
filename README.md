@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm Oleg - a passionate developer constantly explo
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?notilttoday=notilttoday&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=notilttoday&show_icons=true&theme=radical)
 
 ## 📫 Get in touch
 
