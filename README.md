@@ -24,17 +24,16 @@ Welcome to my GitHub profile! I'm Oleg - a passionate developer constantly explo
 ## 🛠️ Projects
 
 ### 📘 [Project 1](https://github.com/notilttoday/project1)
-Опис: Практична робота, де створено адаптивний веб-сайт з використанням HTML5, CSS3 та Bootstrap. Сайт коректно відображається на різних пристроях (мобільні телефони, планшети, десктопи), дотримуючись принципів responsive design.
-Що я навчився: Використання медіа-запитів, робота з фреймворком Bootstrap для швидкого верстання, оптимізація зображень та елементів для різних розширень екранів.
-  
+Description: Practical work where a responsive website was created using HTML5, CSS3 and Bootstrap. The site is displayed correctly on various devices (mobile phones, tablets, desktops), following the principles of responsive design.
+What I learned: Using media queries, working with the Bootstrap framework for fast layouts, optimizing images and elements for different screen sizes.
+
 ### 📙 [Project 2](https://github.com/notilttoday/project2)
-Опис: Розроблено динамічний веб-застосунок для управління списком завдань (To-Do List) з використанням JavaScript. Реалізовано можливості додавання, редагування та видалення завдань з локальним збереженням даних через localStorage.
-Що я навчився: Робота з DOM (Document Object Model), обробка подій в JavaScript, збереження даних в localStorage для забезпечення персистентності між сесіями.
+Description: A dynamic web application for managing a To-Do List using JavaScript has been developed. The ability to add, edit and delete tasks with local data storage through localStorage has been implemented.
+What I learned: Working with the DOM (Document Object Model), handling events in JavaScript, saving data in localStorage to ensure persistence between sessions.
 
 ### 📗 [Project 3](https://github.com/notilttoday/project3)
-
-Опис: Створено SPA з використанням React для відображення даних про фільми через API The Movie Database (TMDb). Реалізовано маршрутизацію, пошук фільмів, перегляд деталей та рейтинги користувачів.
-Що я навчився: Основи React, робота з компонентами, станом та пропсами, використання React Router для маршрутизації, асинхронні запити до API з використанням fetch.
+Description: Created a SPA using React to display movie data via The Movie Database (TMDb) API. Routing, movie search, detail view and user ratings are implemented.
+What I learned: Basics of React, working with components, state and props, using React Router for routing, asynchronous API requests using fetch.
 
 ---
 
