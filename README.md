@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm Oleg - a passionate developer constantly explo
 ## 📫 Get in touch
 
 - Email: [tsimbaloleg2006@gmail.com](mailto:tsimbaloleg2006@gmail.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/notilttoday/)
+- LinkedIn: [NoTiltToday](https://www.linkedin.com/in/your-linkedin-profile/)
 - X: [@notilttoday](https://X.com/notilttoday)
 
 ## 🛠️ Projects
@@ -32,8 +32,10 @@ Welcome to my GitHub profile! I'm Oleg - a passionate developer constantly explo
 Що я навчився: Робота з DOM (Document Object Model), обробка подій в JavaScript, збереження даних в localStorage для забезпечення персистентності між сесіями.
 
 ### 📗 [Project 3](https://github.com/notilttoday/project3)
+
 Опис: Створено SPA з використанням React для відображення даних про фільми через API The Movie Database (TMDb). Реалізовано маршрутизацію, пошук фільмів, перегляд деталей та рейтинги користувачів.
 Що я навчився: Основи React, робота з компонентами, станом та пропсами, використання React Router для маршрутизації, асинхронні запити до API з використанням fetch.
+
 ---
 
 ⭐️ From [yourusername](https://github.com/yourusername)
