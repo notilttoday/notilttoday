@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm Oleg - a passionate developer constantly explo
 ## 📫 Get in touch
 
 - Email: [tsimbaloleg2006@gmail.com](mailto:tsimbaloleg2006@gmail.com)
-- LinkedIn: [NoTiltToday](https://www.linkedin.com/in/your-linkedin-profile/)
+- LinkedIn: [NoTiltToday](https://www.linkedin.com/in/notilttoday/)
 - X: [@notilttoday](https://X.com/notilttoday)
 
 ## 🛠️ Projects
@@ -38,4 +38,4 @@ Welcome to my GitHub profile! I'm Oleg - a passionate developer constantly explo
 
 ---
 
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [Tsymbal Oleg](https://github.com/notilttoday)
